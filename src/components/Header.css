@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+
+.ICON
+{
+    width: 150px;
+}
+.header
+{
+    display: flex;
+    align-items: center;
+    gap:60px;
+    justify-content: space-between;
+
+}
+
+.header_left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.FIS{
+    height: 100px;
+    margin-left:-10px;
+}
+
+.seic {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.ll {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.sear{
+    background-color: rgb(172, 168, 168);
+    border-radius: 999px;
+    padding: 8px 10px;
+}
+#IN {
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+.centered
+{
+    display:flex;
+    gap:20px;
+}
+.spe 
+{
+    display: flex;
+    gap:4px;
+    flex-direction: column;
+    align-items: center;
+}
